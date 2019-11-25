@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'project-template'
+project = 'p-traefic-pod'
 copyright = '2019, Miro Adamy'
 author = 'Miro Adamy'
 release = '0.9.0'
