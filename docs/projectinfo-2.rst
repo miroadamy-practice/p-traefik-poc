@@ -1,8 +1,11 @@
 **********************
-Chapter B Header
+Treafik Configuration
 **********************
 
-Lorem ipsum
+See https://docs.traefik.io/v2.0/assets/img/static-dynamic-configuration.png
+
+.. image:: images/static-dynamic-configuration.png
+
 
 Sub-chapter header 1
 ====================
