@@ -1,0 +1,36 @@
+site_name: Traefic - proof of concept
+repo_url: https://gitlab.com/plg-containers/p-traefik-poc.git
+repo_name: p-traefik-poc
+site_description: Notes from my traefic experimetation
+site_author: Miro Adamy
+copyright: (c) 2020 Miro Adamy
+
+nav:
+    - Home: index.md
+    - Traefic:
+        - Basics: projectinfo-1.md
+        - Configuration: projectinfo-2.md
+    - Docs demo:
+        - Markdown: markdown-demo.md
+        - Macros: macros-demo1.md
+theme: 
+    name: material
+
+markdown_extensions:
+    - admonition
+    - codehilite  
+    - toc:
+        permalink: True
+    - sane_lists
+
+plugins:
+    - search
+    - macros:
+        include_dir: .
+
+extra:
+    price: 12.50
+    company:
+        name: Acme
+        address: Laurinska 8
+        website: https://www.acme.com/    
