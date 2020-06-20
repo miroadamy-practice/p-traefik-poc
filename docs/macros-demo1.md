@@ -3,7 +3,7 @@ The documentation is here:
 
 [macros](https://mkdocs-macros-plugin.readthedocs.io/en/latest/)
 
-## Variables
+### Variables
 
 The price of the product is {{ price }}.
 
@@ -38,11 +38,11 @@ The attempt to include different file
 {% include 'mkdocs.yml' %}
 ```
 
-# Admonition
+## Admonition
 
 See [docs](https://squidfunk.github.io/mkdocs-material/extensions/admonition/)
 
-## Notes etc
+### Notes etc
 
 ```
 !!! note
