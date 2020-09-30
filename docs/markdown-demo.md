@@ -1,4 +1,4 @@
----
++++
 __Advertisement :)__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
@@ -8,7 +8,7 @@ __Advertisement :)__
 
 You will like those projects!
 
----
++++
 
 # h1 Heading 8-)
 ## h2 Heading
